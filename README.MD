@@ -9,3 +9,6 @@
 
 >[!WARNING]
 >⚠️ A warning here
+
+>[!CAUTION]
+>💀 Please be cautious
