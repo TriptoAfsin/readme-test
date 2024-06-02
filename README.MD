@@ -2,4 +2,7 @@
 >Notes example here
 
 >[!TIP]
->Tip exmple here 💡
+>💡 Tip exmple here 
+
+>[!IMPORTANT]
+>📌 Something very importnt
