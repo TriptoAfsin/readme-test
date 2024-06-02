@@ -1,5 +1,5 @@
 >[!NOTE]
->Notes example here
+>📒 Notes example here
 
 >[!TIP]
 >💡 Tip exmple here 
