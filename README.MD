@@ -6,3 +6,6 @@
 
 >[!IMPORTANT]
 >📌 Something very importnt
+
+>[!WARNING]
+>⚠️ A warning here
