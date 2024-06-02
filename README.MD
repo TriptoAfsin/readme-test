@@ -1,1 +1,2 @@
-# Hey
+>[!NOTE]
+>Notes example here
